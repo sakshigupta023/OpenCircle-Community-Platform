@@ -19,3 +19,9 @@ register, log in, and share posts in a common feed.
 ## Purpose
 This project was built to understand backend development,
 authentication, and real-world web application flow.
+
+## How to Run
+1. Clone the repository
+2. Import the SQL file into MySQL
+3. Update database credentials in `config/db.php`
+4. Run the project on XAMPP / WAMP
